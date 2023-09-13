@@ -27,4 +27,4 @@ Agora você pode executar o projeto usando o seguinte comando:
 python3 -m streamlit run ./src/main.py
 
 
-## Aproveite o seu projeto "World-Games"!
+# Aproveite o seu projeto "World-Games"!
