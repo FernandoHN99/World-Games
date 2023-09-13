@@ -25,6 +25,3 @@ Dentro do ambiente virtual (se você optou por criar um), instale as dependênci
 Agora você pode executar o projeto usando o seguinte comando:
 
 python3 -m streamlit run ./src/main.py
-
-
-# Aproveite o seu projeto "World-Games"!
